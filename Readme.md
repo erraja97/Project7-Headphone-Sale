@@ -2,7 +2,7 @@
 This project is a part of Full stack Javascript Bootcamp. In this project i have used basic HTML and CSS to bring out final result.
 
 ## Project Link
-### [Headphone Sale](https://trending-2025.netlify.app/)
+### [Headphone Sale](https://headphones-sale.netlify.app/)
 
 ## Snapshot
 
